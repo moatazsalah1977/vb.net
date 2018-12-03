@@ -13,7 +13,7 @@ sub dgv_mystyle
 End Sub
 
 'cell selection
-        DataGridView1.DefaultCellStyle.SelectionBackColor = Color.Yellow
+        DataGridView1.DefaultCellStyle.SelectionBackColor = Color.red 
         DataGridView1.DefaultCellStyle.SelectionForeColor = Color.Yellow
 
         DataGridView1.DefaultCellStyle.WrapMode = DataGridViewTriState.[True]
