@@ -20,4 +20,5 @@ End Sub
         DataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect
         dim test as string
         test ="aaa"
+        test="cvvv"
        
