@@ -19,5 +19,5 @@ End Sub
         DataGridView1.DefaultCellStyle.WrapMode = DataGridViewTriState.[True]
         DataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect
         dim test as string
-        
+        test ="aaa"
        
