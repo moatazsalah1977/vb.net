@@ -21,4 +21,6 @@ End Sub
         dim test as string
         test ="aaa"
         test="cvvv"
+        test3=19
+        
        
